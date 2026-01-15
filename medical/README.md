@@ -1,15 +1,15 @@
-AI Meeting Notes Summarizer (Streamlit)
+ #  AI Meeting Notes Summarizer (Streamlit)
 
 Quick app to upload or paste a meeting transcript and generate:
 - Concise bullet-point summary
 - Action items with owners and due dates (when present)
 - Download as Markdown
 
-Tech stack
+ #  Tech stack
 - Streamlit
 - OpenAI API (GPT-4o mini or GPT-4o)
 
-Setup
+ # Setup
 1) Install Python 3.10+
 2) Create a virtual environment (optional but recommended)
 3) Install dependencies:
